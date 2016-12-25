@@ -1,5 +1,7 @@
 package test08;
-
+/**
+ * 未完全通过测试
+ */
 import java.util.Scanner;
 
 public class Main {
