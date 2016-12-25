@@ -11,7 +11,6 @@ public class Main {
 		a.print();
 		b.print();
 		a.plus(b).print();
-		a.multiply(b).print();
 		a.multiply(b).plus(new Fraction(5,6)).print();
 		a.print();
 		b.print();
